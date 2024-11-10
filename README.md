@@ -1,6 +1,6 @@
 # Self-Attention and Positional Encoding in NLP
 
-This repository contains a hands-on lab project focused on understanding and implementing self-attention mechanisms and positional encoding, two foundational techniques in natural language processing (NLP). This project was completed as part of IBM's deep learning course.
+This repository contains a hands-on lab project focused on understanding and implementing self-attention mechanisms and positional encoding, two foundational techniques in natural language processing (NLP). This project was completed as part of IBM's Generative AI Engineering with LLMs Specialization course.
 
 ## Overview
 
